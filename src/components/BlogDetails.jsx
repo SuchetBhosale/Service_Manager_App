@@ -5,7 +5,7 @@ import blogsData from '../data/blogs.json';
 export default function BlogDetails(){
   const { id } = useParams()
   const post = blogsData.find(b => String(b.id) === id)
-  if(!post) return <div><p>Post not found.</p><Link to="/blog">Back</Link></div>
+  if(!post) return <div><p>Post  not  found.</p><Link to="/blog">Back</Link></div>
 
   return (
     <article>
