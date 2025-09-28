@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "5 Benefits of Aromatherapy",
+    "excerpt": "Discover how aromatherapy can reduce stress and improve sleep...",
+    "content": "Discover the Power of Aromatherapy for Stress Relief and Better Sleep\n\nAromatherapy uses natural plant extracts, like essential oils, to promote physical and emotional well-being. Certain scents can help reduce stress, calm the mind, and improve sleep quality.\n\n- Lavender: Known for its relaxing and sleep-inducing properties.\n- Chamomile: Soothes anxiety and promotes calmness.\n- Bergamot: Helps reduce tension and uplift mood.\n- Sandalwood: Encourages mental clarity and relaxation.\n\nHow to use:\n- Diffuse essential oils in your bedroom.\n- Add a few drops to a warm bath.\n- Apply diluted oils to pulse points for a calming effect.\n\nIncorporating aromatherapy into your daily routine can create a peaceful environment, helping you sleep better and handle stress more effectively.",
+    "image": "/blog1.jpg",
+    "tags": ["aromatherapy", "wellness"],
+    "category": "Wellness"
+  },
+  {
+    "id": 2,
+    "title": "Why Yoga Improves Productivity",
+    "excerpt": "Yoga is more than exercise - it boosts focus and energy...",
+    "content": "Aromatherapy uses natural plant extracts, like essential oils, to promote physical and emotional well-being. Certain scents can help reduce stress, calm the mind, and improve sleep quality.\n\n- Lavender: Known for its relaxing and sleep-inducing properties.\n- Chamomile: Soothes anxiety and promotes calmness.\n- Bergamot: Helps reduce tension and uplift mood.\n- Sandalwood: Encourages mental clarity and relaxation.\n\nHow to use:\n- Diffuse essential oils in your bedroom.\n- Add a few drops to a warm bath.\n- Apply diluted oils to pulse points for a calming effect.\n\nIncorporating aromatherapy into your daily routine can create a peaceful environment, helping you sleep better and handle stress more effectively.",
+    "image": "/blog2.png",
+    "tags": ["yoga", "productivity"],
+    "category": "Fitness"
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Spa Treatments in 2025",
+    "excerpt": "Check out the most popular spa treatments people love...",
+    "content": "Discover the Most Popular Spa Treatments People Love\n\nSpas offer a variety of treatments designed to relax, rejuvenate, and heal. Here are some of the favorites that people swear by:\n\n- Swedish Massage: Gentle and relaxing, perfect for stress relief and improving circulation.\n- Aromatherapy Massage: Combines massage with essential oils to enhance mood and relaxation.\n- Hot Stone Massage: Uses smooth, heated stones to relieve muscle tension and promote deep relaxation.\n- Facials: Cleanse, exfoliate, and hydrate your skin for a glowing complexion.\n- Body Scrubs and Wraps: Exfoliate dead skin cells and nourish the skin with minerals and oils.\n- Reflexology: Stimulates pressure points in the feet to improve overall health and energy.\n\nWhy try spa treatments?\nRegular spa visits can reduce stress, improve sleep, boost circulation, and refresh your mind and body.",
+
+    "image": "/blog3.jpeg",
+    "tags": ["spa", "trends"],
+    "category": "Trends"
+  }
+]
