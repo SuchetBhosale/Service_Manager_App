@@ -1,4 +1,4 @@
-[
+const blogsData=[
   {
     "id": 1,
     "title": "5 Benefits of Aromatherapy",
@@ -28,3 +28,5 @@
     "category": "Trends"
   }
 ]
+
+export default blogsData;

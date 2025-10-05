@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import ServiceCard from './ServiceCard';
-import servicesData from '../data/services.json';
+import servicesData from '../Data/services.js';
 
 export default function ServicesPage(){
   const [services, setServices] = useState([])

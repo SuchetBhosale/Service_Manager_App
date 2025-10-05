@@ -1,4 +1,4 @@
-[
+const servicesData =[
     {
       "id": 1,
       "title": "Aromatherapy Massage",
@@ -25,3 +25,4 @@
     }
   ]
   
+  export default servicesData;

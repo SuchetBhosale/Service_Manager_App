@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import blogsData from '../data/blogs.json';
+import blogsData from '../Data/blogs';
 
 export default function BlogList(){
   const [blogs, setBlogs] = useState([])
